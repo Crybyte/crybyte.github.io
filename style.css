@@ -1,0 +1,6 @@
+html {
+    background-color: black;
+    background-image: linear-gradient(grey, black);
+    background-repeat: no-repeat;
+    height: 50%;
+}
