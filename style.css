@@ -3,4 +3,16 @@ html {
     background-image: linear-gradient(grey, black);
     background-repeat: no-repeat;
     height: 50%;
+    color: whitesmoke
+}
+
+.header {
+    overflow: hidden;
+    background-color: transparent;
+    padding: .5rem .25rem;
+}
+
+footer {
+    display: flex;
+    align-items: center;
 }
