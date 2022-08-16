@@ -14,10 +14,12 @@
 /* CSS for text on banner image */
 .banner_title {
     font-size: 4.5rem;
+    font-family: 'quicksand', 'sans-serif';
 }
 
 .banner_desc {
     font-size: 2rem;
+    font-family: 'quicksand', 'sans-serif';
 }
 
 .banner-text {
