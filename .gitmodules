@@ -1,0 +1,3 @@
+[submodule "PyscriptDemo"]
+	path = PyscriptDemo
+	url = https://github.com/Crybyte/PyscriptDemo.git
