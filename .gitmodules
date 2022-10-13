@@ -1,3 +1,6 @@
 [submodule "PyscriptDemo"]
 	path = PyscriptDemo
 	url = https://github.com/Crybyte/PyscriptDemo.git
+[submodule "Wikibot"]
+	path = Wikibot
+	url = git@github.com:Crybyte/Wikibot.git
